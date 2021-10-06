@@ -1,0 +1,2 @@
+rootProject.name = "Muse Drowsiness Detector"
+include ':app'
